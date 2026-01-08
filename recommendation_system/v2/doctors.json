@@ -1,0 +1,102 @@
+﻿[
+  {
+    "doctor_id": "P1",
+    "name": "Dr. Arjun Menon",
+    "specialization": "Consultation-Liaison Psychiatry",
+    "bio": "Focus on maternal mental health, mood disorders linked to medical conditions, therapy after childbirth, CBT specialist",
+    "rating": 4.9,
+    "fee": 900,
+    "languages": ["English", "Malayalam"],
+    "availability": "Online"
+  },
+  {
+    "doctor_id": "P2",
+    "name": "Dr. Sara Nair",
+    "specialization": "Addiction Psychiatry",
+    "bio": "Expert in alcohol and drug dependence recovery, rehabilitation therapy, relapse counseling",
+    "rating": 4.6,
+    "fee": 700,
+    "languages": ["English", "Hindi"],
+    "availability": "Online"
+  },
+  {
+    "doctor_id": "P3",
+    "name": "Dr. Kavya Rao",
+    "specialization": "Child and Adolescent Psychiatry",
+    "bio": "Specialist in teenage anxiety, childhood trauma, ADHD, student mental health counseling",
+    "rating": 4.7,
+    "fee": 650,
+    "languages": ["English", "Kannada"],
+    "availability": "Offline"
+  },
+  {
+    "doctor_id": "P4",
+    "name": "Dr. Rohan Iyer",
+    "specialization": "Clinical Psychology",
+    "bio": "CBT and DBT therapist for anxiety disorders, panic attacks, and stress management",
+    "rating": 4.5,
+    "fee": 600,
+    "languages": ["English", "Tamil"],
+    "availability": "Online"
+  },
+  {
+    "doctor_id": "P5",
+    "name": "Dr. Neha Kapoor",
+    "specialization": "Women’s Mental Health",
+    "bio": "Specialist in postpartum depression, pregnancy-related anxiety, and hormonal mood disorders",
+    "rating": 4.8,
+    "fee": 850,
+    "languages": ["English", "Hindi"],
+    "availability": "Online"
+  },
+  {
+    "doctor_id": "P6",
+    "name": "Dr. Aman Verma",
+    "specialization": "General Psychiatry",
+    "bio": "Treatment of depression, anxiety, sleep disorders, and long-term medication management",
+    "rating": 4.3,
+    "fee": 500,
+    "languages": ["English", "Hindi"],
+    "availability": "Offline"
+  },
+  {
+    "doctor_id": "P7",
+    "name": "Dr. Priya Sengupta",
+    "specialization": "Trauma and PTSD Therapy",
+    "bio": "Trauma-focused CBT, PTSD recovery, emotional regulation after abuse or accidents",
+    "rating": 4.7,
+    "fee": 950,
+    "languages": ["English", "Bengali"],
+    "availability": "Online"
+  },
+  {
+    "doctor_id": "P8",
+    "name": "Dr. Kunal Shah",
+    "specialization": "Relationship and Family Counseling",
+    "bio": "Marriage counseling, relationship conflicts, family therapy, communication issues",
+    "rating": 4.4,
+    "fee": 700,
+    "languages": ["English", "Gujarati"],
+    "availability": "Online"
+  },
+  {
+    "doctor_id": "P9",
+    "name": "Dr. Meera Joshi",
+    "specialization": "Geriatric Psychiatry",
+    "bio": "Mental health care for elderly patients, dementia support, depression in older adults",
+    "rating": 4.6,
+    "fee": 800,
+    "languages": ["English", "Hindi"],
+    "availability": "Offline"
+  },
+  {
+    "doctor_id": "P10",
+    "name": "Dr. Suresh Pillai",
+    "specialization": "Stress and Workplace Mental Health",
+    "bio": "Burnout management, workplace stress, executive coaching, anxiety in professionals",
+    "rating": 4.5,
+    "fee": 750,
+    "languages": ["English", "Malayalam"],
+    "availability": "Online"
+  }
+]

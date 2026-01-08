@@ -1,0 +1,5 @@
+Folder_Tree.py
+__pycache__/
+.venv/
+redis_data/
+env/
